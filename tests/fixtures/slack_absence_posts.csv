@@ -1,3 +1,4 @@
 post_id,posted_at,class_id,student_name,employee_id,message
 SL001,2026-07-09T18:30:00+09:00,CLASS001,Suzuki Ichiro,EMP003,体調不良のため本日欠席します
 SL002,2026-07-09T18:45:00+09:00,CLASS002,Takahashi Aoi,EMP005,本日は任意参加のため欠席します
+SL003,2026-07-10T18:30:00+09:00,CLASS003,Sample Student Notice,EMP012,fixture sample absence notice

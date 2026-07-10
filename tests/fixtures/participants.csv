@@ -5,3 +5,9 @@ P003,CLASS001,SFSTUDENT003,EMP003,student003@example.com,Suzuki Ichiro,active,,U
 P004,CLASS002,SFSTUDENT004,EMP004,student004@example.com,Tanaka Jiro,active,,U004,https://line.example/004,true
 P005,CLASS002,SFSTUDENT005,EMP005,student005@example.com,Takahashi Aoi,graduated_optional,graduated optional participation,U005,https://line.example/005,true
 P006,CLASS002,SFSTUDENT006,EMP006,student006@example.com,Kobayashi Ren,withdrawn,withdrawn on previous month,U006,https://line.example/006,true
+P007,CLASS002,SFSTUDENT007,EMP007,student007@example.com,Sample Student Unauthorized,active,,U007,https://line.example/007,true
+P008,CLASS001,SFSTUDENT008,EMP008,student008@example.com,Sample Student Name Only,active,,U008,https://line.example/008,true
+P009,CLASS002,SFSTUDENT009,EMP009,student009@example.com,Sample Student Retired,retired,retired sample record,U009,https://line.example/009,true
+P010,CLASS003,SFSTUDENT010,EMP010,student010@example.com,Sample Student Present,active,,U010,https://line.example/010,true
+P011,CLASS003,SFSTUDENT011,EMP011,student011@example.com,Sample Student No Notice,active,,U011,https://line.example/011,true
+P012,CLASS003,SFSTUDENT012,EMP012,student012@example.com,Sample Student Notice,active,,U012,https://line.example/012,true

@@ -4,3 +4,5 @@ PU002,2026-07-09T19:28:00+09:00,Sato Hanako,EMP002,student002@example.com,Osaka,
 PU003,2026-07-09T19:50:00+09:00,Tanaka Jiro,EMP004,student004@example.com,Osaka,103
 PU004,2026-07-09T20:01:00+09:00,Tanaka Jiro,EMP004,student004@example.com,Osaka,104
 PU005,2026-07-09T20:05:00+09:00,Unknown Name,,,Tokyo,105
+PU006,2026-07-09T19:20:00+09:00,Sample Student Name Only,,,Tokyo,106
+PU007,2026-07-10T19:45:00+09:00,Sample Student Present,EMP010,student010@example.com,Tokyo,107
