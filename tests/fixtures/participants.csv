@@ -1,0 +1,7 @@
+participant_id,class_id,salesforce_student_id,employee_id,email,student_name,status,note,slack_user_id,line_url,icts_ai_registered
+P001,CLASS001,SFSTUDENT001,EMP001,student001@example.com,Yamada Taro,active,,U001,https://line.example/001,true
+P002,CLASS001,SFSTUDENT002,EMP002,student002@example.com,Sato Hanako,active,,U002,https://line.example/002,true
+P003,CLASS001,SFSTUDENT003,EMP003,student003@example.com,Suzuki Ichiro,active,,U003,https://line.example/003,false
+P004,CLASS002,SFSTUDENT004,EMP004,student004@example.com,Tanaka Jiro,active,,U004,https://line.example/004,true
+P005,CLASS002,SFSTUDENT005,EMP005,student005@example.com,Takahashi Aoi,graduated_optional,graduated optional participation,U005,https://line.example/005,true
+P006,CLASS002,SFSTUDENT006,EMP006,student006@example.com,Kobayashi Ren,withdrawn,withdrawn on previous month,U006,https://line.example/006,true

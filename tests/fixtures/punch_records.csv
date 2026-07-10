@@ -1,0 +1,6 @@
+punch_id,punched_at,student_name,employee_id,email,venue,raw_row_number
+PU001,2026-07-09T19:22:00+09:00,Yamada Taro,EMP001,student001@example.com,Tokyo,101
+PU002,2026-07-09T19:28:00+09:00,Sato Hanako,EMP002,student002@example.com,Osaka,102
+PU003,2026-07-09T19:50:00+09:00,Tanaka Jiro,EMP004,student004@example.com,Osaka,103
+PU004,2026-07-09T20:01:00+09:00,Tanaka Jiro,EMP004,student004@example.com,Osaka,104
+PU005,2026-07-09T20:05:00+09:00,Unknown Name,,,Tokyo,105

@@ -1,0 +1,4 @@
+slack_user_id,email,display_name,real_name,team_id
+U001,student001@example.com,Yamada Taro,Yamada Taro,T001
+U002,student002@example.com,Sato Hanako,Sato Hanako,T001
+U004,student004@example.com,Tanaka Jiro,Tanaka Jiro,T002

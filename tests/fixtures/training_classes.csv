@@ -1,0 +1,4 @@
+class_id,class_name,training_date,weekday,start_time,venue,salesforce_class_id,status,slack_channel_id
+CLASS001,HTML/CSS Tokyo Thursday,2026-07-09,Thursday,19:30,Tokyo,SFCLASS001,active,C0123456789
+CLASS002,Java Osaka Thursday,2026-07-09,Thursday,20:00,Osaka,SFCLASS002,active,C9876543210
+CLASS003,TypeScript Tokyo Friday,2026-07-10,Friday,20:00,Tokyo,SFCLASS003,active,C1111111111

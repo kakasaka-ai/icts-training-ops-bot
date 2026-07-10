@@ -1,0 +1,3 @@
+recording_id,class_id,recording_date,file_name,drive_url,teacher_name,verified
+REC001,CLASS001,2026-07-09,20260709,https://drive.example/rec001,Teacher A,true
+REC002,CLASS002,2026-07-09,Meet Recording,https://drive.example/rec002,Teacher B,false
